@@ -45,9 +45,9 @@ Chatbot-with-RAG<br>
 
 **1️⃣ Clone the Repository**<br>
 
-git clone https://github.com/AIwithhassan/Chatbot-with-RAG.git
+git clone https://github.com/Ritika168/ChatBot-with-RAG.git
 
-cd Chatbot-with-RAG<br>
+cd ChatBot-with-RAG
 
 **2️⃣ Create Virtual Environment**
 
@@ -124,3 +124,4 @@ Vectorization – Converts chunks into embeddings using HuggingFace models.
 Storage – Stores embeddings in a ChromaDB (vector database).
 
 Retrieval + Generation (RAG) – When you ask a question, it retrieves the top relevant chunks and sends them to the LLM to generate a context-aware answer.
+
